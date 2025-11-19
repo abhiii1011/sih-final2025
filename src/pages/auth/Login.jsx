@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import LoginLogo from "../../assets/LoginLogo.png";
-import bike from "../../assets/bike.png";
+import bike from "../../assets/kidbike.png";
 import google from "../../assets/google.png";
 import "./login-styles.css";
 

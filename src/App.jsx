@@ -5,7 +5,7 @@ import TopNav from './components/TopNav'
 const App = () => {
   return (
     <div>
-      <TopNav/>
+      {/* <TopNav/> */}
       <Navbar/>
   <MainRoute/>
     </div>
